@@ -1,3 +1,3 @@
 # GraphQL-using-SpringBoot
 
-This projects attempts to create a GraphQL server using nothing but Spring Boot. It defines the schema and is designed in the code-first graphQL approach.
+Please find the code and the readme file in the master branch under the same repository!
